@@ -1,0 +1,88 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\josev\\Desktop\\Courses\\Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure\\TiendaServicios\\TiendaServicios.API.Author\\TiendaServicios.API.Author.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\josev\\Desktop\\Courses\\Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure\\TiendaServicios\\TiendaServicios.API.Author\\TiendaServicios.API.Author.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\josev\\Desktop\\Courses\\Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure\\TiendaServicios\\TiendaServicios.API.Author\\TiendaServicios.API.Author.csproj",
+        "projectName": "TiendaServicios.API.Author",
+        "projectPath": "C:\\Users\\josev\\Desktop\\Courses\\Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure\\TiendaServicios\\TiendaServicios.API.Author\\TiendaServicios.API.Author.csproj",
+        "packagesPath": "C:\\Users\\josev\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josev\\Desktop\\Courses\\Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure\\TiendaServicios\\TiendaServicios.API.Author\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\josev\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://192.168.1.110:8000/nuget/nuget": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "targetAlias": "netcoreapp3.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "targetAlias": "netcoreapp3.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.2, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.405\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TiendaServicios.API.Author
+build_property.ProjectDir = C:\Users\josev\Desktop\Courses\Microservicios con ASP.NET Core, RabbitMQ, Postgresql, MySql, Sql Server y Docker en Azure\TiendaServicios\TiendaServicios.API.Author\
